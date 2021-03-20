@@ -1,0 +1,9 @@
+.one-lines__tag-suggest {
+    display: flex;
+    justify-content: flex-end;
+}
+.one-lines__tag-suggest-tag {
+    margin: 5px;
+    padding: 2px;
+    cursor: pointer;
+}
